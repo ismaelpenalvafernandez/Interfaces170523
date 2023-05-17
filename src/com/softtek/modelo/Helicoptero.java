@@ -1,2 +1,4 @@
-package com.softtek.modelo;public class Helicoptero {
+package com.softtek.modelo;
+
+public class Helicoptero extends Avion{
 }

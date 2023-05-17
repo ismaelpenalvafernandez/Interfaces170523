@@ -1,2 +1,4 @@
-package com.softtek.modelo;public class Vehiculo {
+package com.softtek.modelo;
+
+public class Vehiculo {
 }

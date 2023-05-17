@@ -1,2 +1,8 @@
-package com.softtek.modelo;public class Nautico {
+package com.softtek.modelo;
+
+public interface Nautico {
+     String atracar();
+     String navegar();
+
 }
+

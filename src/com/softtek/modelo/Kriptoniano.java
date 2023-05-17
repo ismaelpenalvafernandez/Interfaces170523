@@ -1,2 +1,4 @@
-package com.softtek.modelo;public class Kriptoniano {
+package com.softtek.modelo;
+
+public class Kriptoniano extends Animal{
 }
